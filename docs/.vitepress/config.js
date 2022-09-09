@@ -15,6 +15,5 @@ export default defineConfig({
   title: 'Learn Vue3 Sourcecode',
   themeConfig,
   appearance: false,
-  base: '/learn-vue3-sourcecode/',
 })
 
